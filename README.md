@@ -1,2 +1,6 @@
 # Filtros-Digitais
-Implementação de Filtros Digitais me Python realizado como forma de Avaliação para a disciplina de Processamento Digital de Sinais
+## Os seguinte filtros foram implementados:
+
+**1.** Filtro Butterworth Analógico/Digital\
+**2.** Filtro Chebyshev Analógico/Digital
+
